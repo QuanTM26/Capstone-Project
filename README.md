@@ -6,9 +6,9 @@ Sparkify is a fictional online music application that provide music service like
 
 ## Table of contents
 
-1. [Import Libraries]()
-2. [Instructions]()
-3. [Findings]()
+1. [Import Libraries](https://github.com/QuanTM26/Capstone-Project/blob/main/README.md#import-libraries)
+2. [Instructions](https://github.com/QuanTM26/Capstone-Project/blob/main/README.md#instructions)
+3. [Findings](https://github.com/QuanTM26/Capstone-Project/blob/main/README.md#findings)
 
 ### Import Libraries
 ---
