@@ -22,5 +22,5 @@ Libraries needed to be imported in this project:
 
 ### Findings
 ---
-The results should be found in this [Blog Post]()
+The results should be found in this [Blog Post](https://github.com/QuanTM26/Capstone-Project/blob/main/%5BBlog%20Post%5D%20Sparkify%20-%20Churn%20Rate%20Prediction.ipynb)
 
